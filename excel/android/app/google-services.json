@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "70513189451",
+    "firebase_url": "https://bdparcelmaster-71a1b-default-rtdb.firebaseio.com",
+    "project_id": "bdparcelmaster-71a1b",
+    "storage_bucket": "bdparcelmaster-71a1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70513189451:android:b4e8b30ad7a6dd6c6123ce",
+        "android_client_info": {
+          "package_name": "com.example.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70513189451-96a17vmjf7pqm9r7oc97rmugvp1h0t48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcBHg3a_cXe_8V7D8hEpUrFOB_Ph6x-ZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70513189451-96a17vmjf7pqm9r7oc97rmugvp1h0t48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70513189451:android:da80e9cecaaa9cb86123ce",
+        "android_client_info": {
+          "package_name": "com.example.excel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70513189451-96a17vmjf7pqm9r7oc97rmugvp1h0t48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcBHg3a_cXe_8V7D8hEpUrFOB_Ph6x-ZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70513189451-96a17vmjf7pqm9r7oc97rmugvp1h0t48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70513189451:android:eff03b5d50c109356123ce",
+        "android_client_info": {
+          "package_name": "com.example.users"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70513189451-96a17vmjf7pqm9r7oc97rmugvp1h0t48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcBHg3a_cXe_8V7D8hEpUrFOB_Ph6x-ZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70513189451-96a17vmjf7pqm9r7oc97rmugvp1h0t48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
